@@ -1,4 +1,4 @@
---Short Description--
+**--Short Description--**
 This dashboard was created to provide a detailed breakdown of survey responses from working data professionals, offering insights into their career trends, challenges, and satisfaction levels.
 
 1) Average salary by job title – Helps compare salaries across different roles like Data Scientist, Data Engineer, Database Developer and Analyst.
